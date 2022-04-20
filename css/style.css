@@ -1,0 +1,16 @@
+@import url('http://fonts.cdnfonts.com/css/minecraftia');
+
+*{
+    font-family: 'Minecraftia', sans-serif;
+}
+
+.col{
+    background-color: #2C4762;
+    color: white;
+}
+
+span {
+    content: "\222B";
+    font-size: 250px;
+  }
+  
